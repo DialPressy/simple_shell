@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * findBuiltIns - validates if command is builtin and executes
+ * findBuiltIns - validates if a command is builtin and executes
  * @build: input build
  * Return: true if found, false if not
  */
