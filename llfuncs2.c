@@ -2,7 +2,7 @@
 
 /**
  * searchNode - searches linked list for string and
- * returns index
+ * returns index.
  * @head: pointer to head of list
  * @str: input string
  * Return: index of node with matching string
