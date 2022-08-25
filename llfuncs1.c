@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * addNode - adds a new node at the beginning of a linked_l list
+ * addNode - adds a new node at the beginning of a linked_l list.
  * @head: reference to head of linked list
  * @str: string to be added on new node
  * Return: address of new head;
