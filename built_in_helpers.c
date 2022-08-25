@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* countArgs - count the number of arguments
+* countArgs - count the number of arguments.
 * @args: input array of strings
 * Return: number of strings
 */
