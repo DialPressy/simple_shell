@@ -1,5 +1,5 @@
 Description
-Josef and Tu's Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for Holberton School.
+Precious Diala and Temitope Shittu's Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX School.
 
 Installation
 Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -Wno-format.
@@ -20,13 +20,13 @@ Included Built-ins
 
 Our shell has support for the following built-in commands:
 
-Command				Definition
-exit [n]		Exit the shell, with an optional exit status, n.
-env			Print the environment.
-setenv [var] [value]	Set an environment variable and value. If the variable exists, the value will be updated.
-unsetenv [var]		Remove an environment variable.
-cd [dir]		Change the directory.
-help [built-in]		Read documentation for a built-in.
+Command					Definition
+exit [n]			Exit the shell, with an optional exit status, n.
+env				Print the environment.
+setenv [var] [value]		Set an environment variable and value. If the variable exists, the value will be updated.
+unsetenv [var]			Remove an environment variable.
+cd [dir]			Change the directory.
+help [built-in]			Read documentation for a built-in.
 
 
 Outside Programs
@@ -63,4 +63,6 @@ check_path.c - functions for checking the path of an executable
 error_handler.c - functions for dealing with errors
 free.c - functions for freeing allocated memory
 main.h - header file
+
 Credits
+All codes written by Precious Diala and Temitope Shittu
