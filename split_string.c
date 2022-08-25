@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * splitString - splits string into an array of strings
+ * splitString - splits string into an array of strings.
  * separated by spaces
  * @build: input build
  * Return: true if able to split, false if not
