@@ -1,4 +1,4 @@
-.TH man 1 "24th August - 8th September 2022" "ALX SCHOOL" "SIMPLE_SHELL"
+.TH man 1 "24th Aug - 8th Sept 2022" "ALX SCHOOL" "SIMPLE_SHELL"
 .SH NAME
 .B simple_shell
 - a simple UNIX command interpreter
