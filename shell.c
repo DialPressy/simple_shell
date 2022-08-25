@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * shell - simple shell
+ * shell - simple shell.
  * @build: input build
  */
 void shell(config *build)
