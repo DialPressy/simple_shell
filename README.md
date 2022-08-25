@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/98320133/186626554-1b740185-fa2f-4bf5-bc96-d0105d3a5c70.png)
+
 Description
 Precious Diala and Temitope Shittu's Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX School.
 
