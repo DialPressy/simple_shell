@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * freeMembers - frees build config members
+ * freeMembers - frees build config members.
  * @build: input build
  */
 void freeMembers(config *build)
