@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * welcome_screen_1 - first half of loading screen
+ * welcome_screen_1 - first half of loading screen.
  */
 void welcome_screen_1(void)
 {
