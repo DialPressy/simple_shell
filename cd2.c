@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * updateOld - updates OLDPWD to current PWD
+ * updateOld - updates OLDPWD to current PWD.
  * @build: input build
  * Return: index in linked list of PWD on success -
  * If PWD or OLDPWD does not exist in environ vars,
