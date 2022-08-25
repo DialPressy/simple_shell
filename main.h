@@ -24,7 +24,7 @@
 extern char **environ;
 
 /**
- * struct linkedList - linked list data structure
+ * struct linkedList - linked list data structure.
  * @string: environ variable path name
  * @next: pointer to next node
  */
