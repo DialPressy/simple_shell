@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * helpFunc - retrieves instruction on how to use builtin
+ * helpFunc - retrieves instruction on how to use built-in.
  * @build: input build
  * Return: Always 1
  */
