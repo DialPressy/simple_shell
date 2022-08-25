@@ -47,7 +47,7 @@ int helpFunc(config *build)
 }
 
 /**
- * displayHelpMenu - displays available help options
+ * displayHelpMenu - displays available help options.
  * Return: Always 1
  */
 int displayHelpMenu(void)
