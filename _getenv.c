@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _getenv - retrieves env variable that matches input string
+ * _getenv - retrieves env variable that matches a input string
  * @input: input string
  * @environ: local environmental variables
  * Return: string of env variable
