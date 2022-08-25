@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/98320133/186626554-1b740185-fa2f-4bf5-bc96-d0105d3a5c70.png)
 
 Description
+
 Precious Diala and Temitope Shittu's Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX School.
 
 Installation
@@ -22,13 +23,13 @@ Included Built-ins
 
 Our shell has support for the following built-in commands:
 
-Command					Definition
-exit [n]			Exit the shell, with an optional exit status, n.
-env				Print the environment.
+Command					            Definition
+exit [n]			          Exit the shell, with an optional exit status, n.
+env				              Print the environment.
 setenv [var] [value]		Set an environment variable and value. If the variable exists, the value will be updated.
-unsetenv [var]			Remove an environment variable.
-cd [dir]			Change the directory.
-help [built-in]			Read documentation for a built-in.
+unsetenv [var]			    Remove an environment variable.
+cd [dir]			          Change the directory.
+help [built-in]			    Read documentation for a built-in.
 
 
 Outside Programs
@@ -66,5 +67,5 @@ error_handler.c - functions for dealing with errors
 free.c - functions for freeing allocated memory
 main.h - header file
 
-Credits
+Credits:
 All codes written by Precious Diala and Temitope Shittu
