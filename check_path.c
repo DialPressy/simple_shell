@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * checkPath - searches $PATH for directory of command
+ * checkPath - searches $PATH for directory of command.
  * @build: input build
  */
 _Bool checkPath(config *build)
