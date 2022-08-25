@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * cdFunc - execute cd builtin
+ * cdFunc - execute cd built-in
  * @build: input build
  * Return: 1 on success, 0 on failure
  */
