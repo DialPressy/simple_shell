@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * insertNullByte - inserts null byte at given index
+ * insertNullByte - inserts null byte at given index.
  * @str: input string
  * @index: index to insert null byte
  */
