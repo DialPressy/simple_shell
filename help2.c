@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * helpAlias - instructions on how to exit
+ * helpAlias - instructions on how to exit.
  * @build: input build
  * Return: Always 1
  */
