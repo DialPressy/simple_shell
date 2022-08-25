@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * errorHandler - prints error message for shell
+ * errorHandler - prints error message for shell.
  * @build: the build config
  */
 void errorHandler(config *build)
