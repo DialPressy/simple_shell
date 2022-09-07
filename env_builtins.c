@@ -15,6 +15,7 @@ int shellby_unsetenv(char **args, char __attribute__((__unused__)) **front);
  * Description: Prints one variable per line in the
  *              format 'variable'='value'.
  */
+
 int shellby_env(char **args, char __attribute__((__unused__)) **front)
 {
 	int index;
