@@ -14,6 +14,7 @@ ssize_t _getline(char **lineptr, size_t *n, FILE *stream);
  *         If new_size == 0 and ptr is not NULL - NULL.
  *         Otherwise - a pointer to the reallocated memory block.
  */
+
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 {
 	void *mem;
