@@ -12,7 +12,8 @@ char **_strtok(char *line, char *delim);
  *
  * Return: The delimiter index marking the end of
  *         the intitial token pointed to be str.
- */
+*/
+
 int token_len(char *str, char *delim)
 {
 	int index = 0, len = 0;
@@ -34,6 +35,7 @@ int token_len(char *str, char *delim)
  *
  * Return: The number of words contained within str.
  */
+
 int count_tokens(char *str, char *delim)
 {
 	int index, tokens = 0, len = 0;
